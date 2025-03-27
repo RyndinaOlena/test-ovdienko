@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ryndinaolena.github.io/test-ovdienko",
+  "homepage": "https://ryndinaolena.github.io/test-ovdienko/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
